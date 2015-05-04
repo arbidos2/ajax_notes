@@ -1,0 +1,19 @@
+#notes div{
+	margin-bottom: 30px;
+}
+
+div.note{
+	width: 200px;
+	border-bottom: 1px solid silver;
+}
+
+form.updateForm textarea{
+	margin-bottom: 20px;
+}
+
+form.deleteForm input{
+	background: none;
+	border: none;
+	cursor: pointer;
+	color: blue;
+}
